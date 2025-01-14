@@ -10,6 +10,7 @@
 - **_La rapidez con la que se crean los programas._**
 - **_Es multiplataforma (se puede desarrollar y ejecutar programas en Linux, Windows, Mac, Android, entre otros)._**
 - **_Python es gratuito, incluso para propósitos empresariales._**
+
 Consejos y Mejores Prácticas
 Al aprender y practicar Python, es crucial adoptar hábitos que no solo te ayudarán a escribir código más eficiente, sino también a convertirte en un programador más hábil y organizado. Aquí te presentamos algunos consejos y mejores prácticas esenciales:
 
