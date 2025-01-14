@@ -15,7 +15,7 @@
 
 **_Al aprender y practicar Python, es crucial adoptar hábitos que no solo te ayudarán a escribir código más eficiente, sino también a convertirte en un programador más hábil y organizado. Aquí te presentamos algunos consejos y mejores prácticas esenciales:_**
 
-1. Escribe Código Legible:
+_1. Escribe Código Legible:_
 
 La legibilidad es clave en Python. Utiliza nombres de variables descriptivos y sigue las convenciones de estilo, como PEP 8, para hacer que tu código sea fácil de leer y entender.
 2. Practica la Escritura de Código de Manera Regular:
