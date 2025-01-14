@@ -1,3 +1,3 @@
 # Introducción a Python!
 
-## Python
+## Qué es Python
