@@ -8,5 +8,5 @@
 
 - **_La cantidad de librerías que contiene._**
 - **_La rapidez con la que se crean los programas._**
-- _Es multiplataforma (se puede desarrollar y ejecutar programas en Linux, Windows, Mac, Android, entre otros)._
+- **_Es multiplataforma (se puede desarrollar y ejecutar programas en Linux, Windows, Mac, Android, entre otros)._**
 - Python es gratuito, incluso para propósitos empresariales. 
