@@ -8,6 +8,6 @@ Python es una de las herramientas tecnológicas que en los últimos años se ha 
 
 - La cantidad de librerías que contiene. 
 - La rapidez con la que se crean los programas.  
- Es multiplataforma (se puede desarrollar y ejecutar programas 
+- Es multiplataforma (se puede desarrollar y ejecutar programas 
 en, Linux, Windows, Mac, Android y otros) 
  Python es gratuito, incluso para propósitos empresariales. 
