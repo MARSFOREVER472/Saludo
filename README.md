@@ -12,6 +12,7 @@
 - **_Python es gratuito, incluso para propósitos empresariales._**
 
 ### **_Consejos y Mejores Prácticas:_**
+
 Al aprender y practicar Python, es crucial adoptar hábitos que no solo te ayudarán a escribir código más eficiente, sino también a convertirte en un programador más hábil y organizado. Aquí te presentamos algunos consejos y mejores prácticas esenciales:
 
 1. Escribe Código Legible:
