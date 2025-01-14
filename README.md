@@ -6,7 +6,7 @@
 
 **_Python es una de las herramientas tecnológicas que en los últimos años se ha hecho muy popular, gracias a varias razones como:_**
 
-- _La cantidad de librerías que contiene._
+- **_La cantidad de librerías que contiene._**
 - La rapidez con la que se crean los programas.  
 - Es multiplataforma (se puede desarrollar y ejecutar programas 
 en, Linux, Windows, Mac, Android y otros) 
