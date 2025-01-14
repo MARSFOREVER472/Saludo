@@ -4,7 +4,7 @@
 
 **_Python es un lenguaje de programación de alto nivel, es decir las sintaxis que se suele usar es fácil de leer para un ser humano, a comparación de otros lenguajes como java y c++, ya que la filosofía del lenguaje es proporcionar una sintaxis muy limpia y que beneficie con código leíble._**
 
-Python es una de las herramientas tecnológicas que en los últimos años se ha hecho muy popular, gracias a varias razones como: 
+_Python es una de las herramientas tecnológicas que en los últimos años se ha hecho muy popular, gracias a varias razones como:_
 
 - La cantidad de librerías que contiene. 
 - La rapidez con la que se crean los programas.  
