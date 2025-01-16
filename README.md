@@ -47,7 +47,7 @@
 
 **_Trabajar con otros puede mejorar significativamente tus habilidades. La programación en pareja y la revisión de código te ayudan a aprender nuevas estrategias y a recibir retroalimentación valiosa._**
 
-_9. Experimenta con Diferentes Paradigmas de Programación:_
+**_9. Experimenta con Diferentes Paradigmas de Programación:_**
 
 Python es muy versátil. Experimenta con programación orientada a objetos, programación funcional y otros paradigmas para ampliar tu comprensión del lenguaje.
 10. Documenta Tu Código:
