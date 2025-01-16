@@ -21,7 +21,7 @@
 
 **_2. Practica la Escritura de Código de Manera Regular:_**
 
-La práctica constante es fundamental. Dedica tiempo regularmente para escribir código, enfrentarte a nuevos desafíos y revisar conceptos previos.
+_La práctica constante es fundamental. Dedica tiempo regularmente para escribir código, enfrentarte a nuevos desafíos y revisar conceptos previos._
 3. Aprende a Depurar Eficazmente:
 
 Familiarízate con las herramientas de depuración de Python y aprende a usar print() de manera efectiva para rastrear errores y comprender el flujo de tu programa.
