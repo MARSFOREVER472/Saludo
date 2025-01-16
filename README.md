@@ -39,7 +39,7 @@
 
 **_Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes._**
 
-_7. Mantente Actualizado:_
+**_7. Mantente Actualizado:_**
 
 Python está en constante evolución. Mantente al tanto de las últimas tendencias, actualizaciones y mejores prácticas en la comunidad de Python.
 8. Practica la Programación en Pareja y la Revisión de Código:
