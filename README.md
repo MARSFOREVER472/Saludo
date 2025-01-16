@@ -50,6 +50,7 @@
 **_9. Experimenta con Diferentes Paradigmas de Programación:_**
 
 Python es muy versátil. Experimenta con programación orientada a objetos, programación funcional y otros paradigmas para ampliar tu comprensión del lenguaje.
+
 10. Documenta Tu Código:
 
 Aprende a documentar tu código eficientemente. Esto no solo te ayuda a ti y a otros a entender tu trabajo, sino que también es una práctica esencial en el desarrollo profesional.
