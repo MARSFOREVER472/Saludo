@@ -11,24 +11,30 @@
 - **_Es multiplataforma (se puede desarrollar y ejecutar programas en Linux, Windows, Mac, Android, entre otros)._**
 - **_Python es gratuito, incluso para propósitos empresariales._**
 
-### **_Consejos y Mejores Prácticas_**
-Al aprender y practicar Python, es crucial adoptar hábitos que no solo te ayudarán a escribir código más eficiente, sino también a convertirte en un programador más hábil y organizado. Aquí te presentamos algunos consejos y mejores prácticas esenciales:
+### **_Consejos y Mejores Prácticas:_**
 
-1. Escribe Código Legible:
+**_Al aprender y practicar Python, es crucial adoptar hábitos que no solo te ayudarán a escribir código más eficiente, sino también a convertirte en un programador más hábil y organizado. Aquí te presentamos algunos consejos y mejores prácticas esenciales:_**
 
-La legibilidad es clave en Python. Utiliza nombres de variables descriptivos y sigue las convenciones de estilo, como PEP 8, para hacer que tu código sea fácil de leer y entender.
-2. Practica la Escritura de Código de Manera Regular:
+**_1. Escribe Código Legible:_**
 
-La práctica constante es fundamental. Dedica tiempo regularmente para escribir código, enfrentarte a nuevos desafíos y revisar conceptos previos.
-3. Aprende a Depurar Eficazmente:
+**_La legibilidad es clave en Python. Utiliza nombres de variables descriptivos y sigue las convenciones de estilo, como PEP 8, para hacer que tu código sea fácil de leer y entender._**
 
-Familiarízate con las herramientas de depuración de Python y aprende a usar print() de manera efectiva para rastrear errores y comprender el flujo de tu programa.
-4. Explora Bibliotecas y Marcos de Trabajo:
+**_2. Practica la Escritura de Código de Manera Regular:_**
 
-Python tiene una rica colección de bibliotecas y frameworks. Explora y aprende a utilizar estas herramientas para expandir tus habilidades y eficiencia.
-5. Contribuye a Proyectos de Código Abierto:
+**_La práctica constante es fundamental. Dedica tiempo regularmente para escribir código, enfrentarte a nuevos desafíos y revisar conceptos previos._**
 
-Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados.
+**_3. Aprende a Depurar Eficazmente:_**
+
+**_Familiarízate con las herramientas de depuración de Python y aprende a usar print() de manera efectiva para rastrear errores y comprender el flujo de tu programa._**
+
+**_4. Explora Bibliotecas y Marcos de Trabajo:_**
+
+**_Python tiene una rica colección de bibliotecas y frameworks. Explora y aprende a utilizar estas herramientas para expandir tus habilidades y eficiencia._**
+
+**_5. Contribuye a Proyectos de Código Abierto:_**
+
+**_Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados._**
+
 6. No Te Rindas Frente a los Errores:
 
 Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes.
