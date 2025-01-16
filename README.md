@@ -35,7 +35,7 @@
 
 **_Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados._**
 
-_6. No Te Rindas Frente a los Errores:_
+**_6. No Te Rindas Frente a los Errores:_**
 
 Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes.
 7. Mantente Actualizado:
