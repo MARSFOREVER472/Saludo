@@ -43,7 +43,7 @@
 
 **_Python está en constante evolución. Mantente al tanto de las últimas tendencias, actualizaciones y mejores prácticas en la comunidad de Python._**
 
-_8. Practica la Programación en Pareja y la Revisión de Código:_
+**_8. Practica la Programación en Pareja y la Revisión de Código:_**
 
 Trabajar con otros puede mejorar significativamente tus habilidades. La programación en pareja y la revisión de código te ayudan a aprender nuevas estrategias y a recibir retroalimentación valiosa.
 9. Experimenta con Diferentes Paradigmas de Programación:
