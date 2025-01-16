@@ -30,6 +30,7 @@
 **_4. Explora Bibliotecas y Marcos de Trabajo:_**
 
 Python tiene una rica colección de bibliotecas y frameworks. Explora y aprende a utilizar estas herramientas para expandir tus habilidades y eficiencia.
+
 5. Contribuye a Proyectos de Código Abierto:
 
 Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados.
