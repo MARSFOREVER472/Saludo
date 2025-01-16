@@ -35,19 +35,24 @@
 
 **_Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados._**
 
-6. No Te Rindas Frente a los Errores:
+**_6. No Te Rindas Frente a los Errores:_**
 
-Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes.
-7. Mantente Actualizado:
+**_Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes._**
 
-Python está en constante evolución. Mantente al tanto de las últimas tendencias, actualizaciones y mejores prácticas en la comunidad de Python.
-8. Practica la Programación en Pareja y la Revisión de Código:
+**_7. Mantente Actualizado:_**
 
-Trabajar con otros puede mejorar significativamente tus habilidades. La programación en pareja y la revisión de código te ayudan a aprender nuevas estrategias y a recibir retroalimentación valiosa.
-9. Experimenta con Diferentes Paradigmas de Programación:
+**_Python está en constante evolución. Mantente al tanto de las últimas tendencias, actualizaciones y mejores prácticas en la comunidad de Python._**
 
-Python es muy versátil. Experimenta con programación orientada a objetos, programación funcional y otros paradigmas para ampliar tu comprensión del lenguaje.
-10. Documenta Tu Código:
+**_8. Practica la Programación en Pareja y la Revisión de Código:_**
 
-Aprende a documentar tu código eficientemente. Esto no solo te ayuda a ti y a otros a entender tu trabajo, sino que también es una práctica esencial en el desarrollo profesional.
-Implementar estos consejos y mejores prácticas en tu aprendizaje y desarrollo de Python te ayudará a construir una base sólida, mejorar continuamente y prepararte para desafíos más complejos en el futuro.
+**_Trabajar con otros puede mejorar significativamente tus habilidades. La programación en pareja y la revisión de código te ayudan a aprender nuevas estrategias y a recibir retroalimentación valiosa._**
+
+**_9. Experimenta con Diferentes Paradigmas de Programación:_**
+
+**_Python es muy versátil. Experimenta con programación orientada a objetos, programación funcional y otros paradigmas para ampliar tu comprensión del lenguaje._**
+
+**_10. Documenta Tu Código:_**
+
+**_Aprende a documentar tu código eficientemente. Esto no solo te ayuda a ti y a otros a entender tu trabajo, sino que también es una práctica esencial en el desarrollo profesional._**
+
+**_Implementar estos consejos y mejores prácticas en tu aprendizaje y desarrollo de Python te ayudará a construir una base sólida, mejorar continuamente y prepararte para desafíos más complejos en el futuro._**
