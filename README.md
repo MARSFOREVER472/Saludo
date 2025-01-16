@@ -31,7 +31,7 @@
 
 **_Python tiene una rica colección de bibliotecas y frameworks. Explora y aprende a utilizar estas herramientas para expandir tus habilidades y eficiencia._**
 
-_5. Contribuye a Proyectos de Código Abierto:_
+**_5. Contribuye a Proyectos de Código Abierto:_**
 
 Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados.
 6. No Te Rindas Frente a los Errores:
