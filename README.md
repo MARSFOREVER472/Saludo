@@ -34,6 +34,7 @@
 **_5. Contribuye a Proyectos de Código Abierto:_**
 
 Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados.
+
 6. No Te Rindas Frente a los Errores:
 
 Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes.
