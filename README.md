@@ -23,7 +23,7 @@
 
 **_La práctica constante es fundamental. Dedica tiempo regularmente para escribir código, enfrentarte a nuevos desafíos y revisar conceptos previos._**
 
-3. Aprende a Depurar Eficazmente:
+_3. Aprende a Depurar Eficazmente:_
 
 Familiarízate con las herramientas de depuración de Python y aprende a usar print() de manera efectiva para rastrear errores y comprender el flujo de tu programa.
 4. Explora Bibliotecas y Marcos de Trabajo:
