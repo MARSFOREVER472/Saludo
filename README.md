@@ -49,7 +49,7 @@
 
 **_9. Experimenta con Diferentes Paradigmas de Programación:_**
 
-_Python es muy versátil. Experimenta con programación orientada a objetos, programación funcional y otros paradigmas para ampliar tu comprensión del lenguaje._
+**_Python es muy versátil. Experimenta con programación orientada a objetos, programación funcional y otros paradigmas para ampliar tu comprensión del lenguaje._**
 
 10. Documenta Tu Código:
 
