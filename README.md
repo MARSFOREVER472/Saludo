@@ -54,4 +54,5 @@
 **_10. Documenta Tu Código:_**
 
 Aprende a documentar tu código eficientemente. Esto no solo te ayuda a ti y a otros a entender tu trabajo, sino que también es una práctica esencial en el desarrollo profesional.
+
 Implementar estos consejos y mejores prácticas en tu aprendizaje y desarrollo de Python te ayudará a construir una base sólida, mejorar continuamente y prepararte para desafíos más complejos en el futuro.
