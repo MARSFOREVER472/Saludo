@@ -38,6 +38,7 @@
 **_6. No Te Rindas Frente a los Errores:_**
 
 **_Enfrentarás errores y desafíos. Considera cada error como una oportunidad de aprendizaje y no te desanimes._**
+
 7. Mantente Actualizado:
 
 Python está en constante evolución. Mantente al tanto de las últimas tendencias, actualizaciones y mejores prácticas en la comunidad de Python.
