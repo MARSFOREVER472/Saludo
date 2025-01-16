@@ -19,7 +19,7 @@
 
 **_La legibilidad es clave en Python. Utiliza nombres de variables descriptivos y sigue las convenciones de estilo, como PEP 8, para hacer que tu código sea fácil de leer y entender._**
 
-_2. Practica la Escritura de Código de Manera Regular:_
+**_2. Practica la Escritura de Código de Manera Regular:_**
 
 La práctica constante es fundamental. Dedica tiempo regularmente para escribir código, enfrentarte a nuevos desafíos y revisar conceptos previos.
 3. Aprende a Depurar Eficazmente:
