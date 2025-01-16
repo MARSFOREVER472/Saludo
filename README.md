@@ -29,7 +29,7 @@
 
 **_4. Explora Bibliotecas y Marcos de Trabajo:_**
 
-_Python tiene una rica colección de bibliotecas y frameworks. Explora y aprende a utilizar estas herramientas para expandir tus habilidades y eficiencia._
+**_Python tiene una rica colección de bibliotecas y frameworks. Explora y aprende a utilizar estas herramientas para expandir tus habilidades y eficiencia._**
 
 5. Contribuye a Proyectos de Código Abierto:
 
