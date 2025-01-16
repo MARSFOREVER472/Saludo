@@ -33,7 +33,7 @@
 
 **_5. Contribuye a Proyectos de Código Abierto:_**
 
-_Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados._
+**_Participar en proyectos de código abierto puede proporcionarte experiencia práctica y ayudarte a aprender de otros programadores más experimentados._**
 
 6. No Te Rindas Frente a los Errores:
 
